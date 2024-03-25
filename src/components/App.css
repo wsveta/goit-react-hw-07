@@ -1,0 +1,14 @@
+.content {
+  display: flex;
+  gap: 30px;
+  margin: 0 auto;
+}
+
+.control-panel {
+  align-self: flex-start;
+  position: -webkit-sticky;
+  position: sticky;
+  width: 400px;
+  top: 0;
+  right: 0;
+}
